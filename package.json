@@ -1,6 +1,6 @@
 {
   "name": "truncate",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "cut off at word edges, not inside words",
   "type": "module",
   "main": "src/index.js",
